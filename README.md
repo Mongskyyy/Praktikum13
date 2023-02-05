@@ -1,6 +1,6 @@
 # Praktikum13
 
-## Tugas pertemuan ke 13 Bahasa Pemrograman
+## Tugas pertemuan ke 15 Bahasa Pemrograman
 ## Nama : Ramadhan Ardi Iman Prakoso
 ## NIM : 312210722
 ## Kelas : TI.22.C.9
